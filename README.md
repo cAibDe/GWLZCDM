@@ -7,6 +7,7 @@
     self.isPush = YES;
     [super pushViewController:viewController animated:YES];
 }
+\n
 当self.isAnimation = YES;Push就会带有那种动画的效果，反之就不会带有动画效果；
 #POP
 这个就是返回的时候不带有动画效果的方法
